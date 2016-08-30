@@ -1,0 +1,9 @@
+c:\users\vuk\documents\visual studio 2015\Projects\factorial\factorial\bin\Debug\factorial.exe.config
+c:\users\vuk\documents\visual studio 2015\Projects\factorial\factorial\bin\Debug\factorial.exe
+c:\users\vuk\documents\visual studio 2015\Projects\factorial\factorial\bin\Debug\factorial.pdb
+c:\users\vuk\documents\visual studio 2015\Projects\factorial\factorial\obj\Debug\factorial.csprojResolveAssemblyReference.cache
+c:\users\vuk\documents\visual studio 2015\Projects\factorial\factorial\obj\Debug\factorial.Form1.resources
+c:\users\vuk\documents\visual studio 2015\Projects\factorial\factorial\obj\Debug\factorial.Properties.Resources.resources
+c:\users\vuk\documents\visual studio 2015\Projects\factorial\factorial\obj\Debug\factorial.csproj.GenerateResource.Cache
+c:\users\vuk\documents\visual studio 2015\Projects\factorial\factorial\obj\Debug\factorial.exe
+c:\users\vuk\documents\visual studio 2015\Projects\factorial\factorial\obj\Debug\factorial.pdb
